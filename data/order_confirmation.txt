@@ -1,0 +1,13 @@
+
+		<p class="cheque-indent">
+			<strong class="dark">Your order on My Store is complete.</strong>
+		</p>
+		Please send us a bank wire with
+		<br>- Amount <span class="price"> <strong>{total_amount}</strong></span>
+		<br>- Name of account owner  <strong>Pradeep Macharla</strong>
+		<br>- Include these details  <strong>xyz</strong>
+		<br>- Bank name  <strong>RTP</strong>
+					<br>- Do not forget to insert your order reference in the subject of your bank wire.
+				<br>An email has been sent with this information.
+		<br> <strong>Your order will be sent as soon as we receive payment.</strong>
+		<br>If you have questions, comments or concerns, please contact our <a href="http://automationpractice.com/index.php?controller=contact">expert customer support team. </a>.

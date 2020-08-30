@@ -1,0 +1,24 @@
+
+            <h3 class="page-subheading">
+                Bank-wire payment.
+            </h3>
+            <p class="cheque-indent">
+                <strong class="dark">
+                    You have chosen to pay by bank wire. Here is a short summary of your order:
+                </strong>
+            </p>
+            <p>
+                - The total amount of your order comes to:
+                <span id="amount" class="price">{total_amount}</span>
+                                    (tax incl.)
+                            </p>
+            <p>
+                -
+                                    We allow the following currency to be sent via bank wire:&nbsp;<b>Dollar</b>
+                    <input type="hidden" name="currency_payement" value="1">
+                            </p>
+            <p>
+                - Bank wire account information will be displayed on the next page.
+                <br>
+                - Please confirm your order by clicking "I confirm my order.".
+            </p>
